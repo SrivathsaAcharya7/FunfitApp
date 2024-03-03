@@ -1,0 +1,7 @@
+com\funfit\connection\DBConnection.class
+com\funfit\models\Batch.class
+com\funfit\models\Participant.class
+com\funfit\dboperations\ParticipantOperations.class
+com\funfit\servlet\ParticipantServlet.class
+com\funfit\servlet\BatchServlet.class
+com\funfit\dboperations\BatchOperations.class
